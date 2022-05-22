@@ -1,6 +1,6 @@
 #TP_flutter_Groupe7_IFRI-L3
 
-Membres du groupe
+Membres du groupe 7
 1- ADANGO Héribert
 2- AHOUEYA Samuel
 3- ALISSOU Fernando
